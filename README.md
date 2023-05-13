@@ -26,3 +26,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hima-khalid&theme=tokyonight&show_icons=true&locale=en" alt="hima-khalid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hima-khalid&theme=tokyonight" alt="hima-khalid" /></p>
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+</div>
+
+
+
