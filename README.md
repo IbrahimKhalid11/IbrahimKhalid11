@@ -1,8 +1,12 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Ibrahim Khalid/Ibrahim Khalid/master/name.svg" alt="Hi 👋, I'm Ibrahim Khalid" />
-</h1>
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
+  <br />
+  <br />
 
-
+</div>
 
 <h1 align="center">Hi 👋, I'm Ibrahim Khalid</h1>
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F4752&width=435&lines=Machine+Learning+Engineer" alt="Typing SVG" /></a>
