@@ -1,4 +1,29 @@
-:)<h1 align="center">Hi 👋, I'm Ibrahim Khalid</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+</h1>
+
+## Hey! 👋
+I'm Marton, a 18 years old web developer from Hungary.
+
+- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
+
+- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript, PHP, C#
+- ⚙️ React, Svelte, Vue
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
+
+## Contact
+- [marton.lederer.hu](https://marton.lederer.hu)
+- [@martonlederer](https://twitter.com/martonlederer) on Twitter
+- [@martonlederer](https://twitter.com/instagram) on Instagram
+- [Marton#6513](./) on Discord
+
+
+
+<h1 align="center">Hi 👋, I'm Ibrahim Khalid</h1>
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F4752&width=435&lines=Machine+Learning+Engineer" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hima-khalid&label=Profile%20views&color=0e75b6&style=flat" alt="hima-khalid" /> </p>
