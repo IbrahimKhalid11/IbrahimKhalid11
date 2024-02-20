@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ibrahim Khalid</h1>
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F4752&width=435&lines=Machine+Learning+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F4752&width=435&lines=Data+Scientist" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hima-khalid&label=Profile%20views&color=0e75b6&style=flat" alt="hima-khalid" /> </p>
 
