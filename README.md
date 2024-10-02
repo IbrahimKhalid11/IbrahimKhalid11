@@ -22,8 +22,8 @@
 
 
 ## Chronicle of My Conquests:
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimkhalid11&show_icons=true&theme=dark&card_width=500)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimkhalid11&theme=dark)
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimkhalid11&show_icons=true&theme=transparent&card_width=500)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimkhalid11&theme=transparent)
 
 ## Join the Guild of Visionaries:
 ![Profile views](https://komarev.com/ghpvc/?username=ibrahimkhalid11)
