@@ -22,9 +22,9 @@
 
 
 ## Chronicle of My Conquests:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimkhalid11&show_icons=true&theme=dark&layout=compact)
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimkhalid11&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimkhalid11&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimkhalid11&show_icons=true&theme=dark&layout=compact)
 
 ## Join the Guild of Visionaries:
 ![Profile views](https://komarev.com/ghpvc/?username=ibrahimkhalid11)
