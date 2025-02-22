@@ -1,6 +1,6 @@
 # Greetings, Digital Explorers! 🌐 I'm Ibrahim Khalid 🧞‍♂️
 
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F4752&width=435&lines=Data+Scientist" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F4752&width=435&lines=Data+Engineer" alt="Typing SVG" /></a>
 
 
 ## My Alchemical Toolkit:
