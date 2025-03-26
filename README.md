@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F4752&width=435&lines=Data+Engineer" alt="Typing SVG" /></a>
 
 
-## My Alchemical Toolkit:
+## Languages and Tools:
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -21,12 +21,12 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
-## Chronicle of My Conquests:
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimkhalid11&show_icons=true&theme=transparent&card_width=500)
+<h4 align="left">📈 My GitHub Stats</42></p>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="IbrahimKhalid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ibrahimkhalid11&show_icons=true&theme=transparent&card_width=500" height="192px"/></a>
+<br/>
 
-## Join the Guild of Visionaries:
-![Profile views](https://komarev.com/ghpvc/?username=ibrahimkhalid11)
-![Followers](https://img.shields.io/github/followers/ibrahimkhalid11?style=social)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
