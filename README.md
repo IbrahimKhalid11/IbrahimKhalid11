@@ -24,7 +24,7 @@
 <h4 align="left">📈 My GitHub Stats</42></p>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="IbrahimKhalid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ibrahimkhalid11&show_icons=true&theme=transparent&card_width=500" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="IbrahimKhalid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ibrahimkhalid11&show_icons=true&theme=shadow_blue&card_width=500" height="192px"/></a>
 <br/>
 
 
